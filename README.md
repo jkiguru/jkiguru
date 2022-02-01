@@ -15,17 +15,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-   * [x] Programming Skills
-      * [ ] Laravel Framework
-      * [ ] PHP
+   * [x] Programming Skills 
+      * [ ] PHP && Laravel Framework
       * [ ] Python
       * [ ] Assembly
-      * [ ] C
-      * [ ] C++
-      * [ ] Java
+      * [ ] C && C++
    * [x] Cyber Security
-      * [ ] Binary Exploitation
-      * [ ] Reverse Engineering
+      * [ ] Binary Exploitation && Reverse Engineering
       * [ ] Web Security
    - Still learning am familiar with the above and comfortable with their syntax .
    ![Github stats](https://github-readme-stats.vercel.app/api?username=jkiguru)
