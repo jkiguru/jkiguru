@@ -23,5 +23,5 @@ Here are some ideas to get you started:
    * [x] Cyber Security
       * [ ] Binary Exploitation && Reverse Engineering
       * [ ] Web Security
-   - Still learning am familiar with the above and comfortable with their syntax .
+   - Still learning . Open to work on a team Project .
    ![Github stats](https://github-readme-stats.vercel.app/api?username=jkiguru)
