@@ -7,7 +7,6 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -16,13 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
    * [x] Programming Skills 
-      * [ ] PHP && Laravel Framework
-      * [ ] Python
-      * [ ] Assembly
-      * [ ] C && C++
+      * [ ] Oh man!
    * [x] Cyber Security
-      * [ ] Binary Exploitation && Reverse Engineering
-      * [ ] Web Security
-   - Still learning . Open to work on a team Project .
+      * [ ] Coming soon
+   - 🌱 I’m currently learning . Open to work on a team Project .
    
    ![Github stats](https://github-readme-stats.vercel.app/api?username=jkiguru)
