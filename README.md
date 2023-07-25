@@ -20,4 +20,4 @@ Here are some ideas to get you started:
       * [ ] Coming soon
    - 🌱 I’m currently learning . Open to work on a team Project .
    
-![Github stats](https://github-readme-stats.vercel.app/api?username=johnkiguru1337)
+![Github stats](https://github-readme-stats.vercel.app/api?username=johnkiguru1337) 
